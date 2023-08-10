@@ -29,9 +29,9 @@ path_name = []
 
 # Generate patient IDs and VCF file paths
 
-for i in range(355, 357):
+for i in range(355, 496):
     patients.append('MK491' + str(i)) 
-    path_name.append('MK491' + str(i) + '.vcf.anno.vcf.gz')
+    path_name.append('../samples/arm_samples/anno/MK491' + str(i) + '.vcf.anno.vcf.gz')
 
 
 # Create an empty DataFrame to store matrix data
@@ -47,19 +47,19 @@ def find_first_gene_match(input_string):
 
 # Process each VCF file
 
-for file in path_name:
+for (file, patient) in zip(path_name, patients):
     names = get_vcf_names(file)  # Get VCF column names
     vcf = create_vcf(file)       # Create DataFrame from VCF file
     for gene in genes:
         # Check if gene is present in any INFO column, update matrix_data accordingly
         if (vcf["INFO"].apply(lambda x: find_first_gene_match(x)).str.contains(gene).sum() > 0):
-            matrix_data.loc[file[:len(file) - 16]].at[gene] = 1
+            matrix_data.loc[patient].at[gene] = 1
         else:
-            matrix_data.loc[file[:len(file) - 16]].at[gene] = 0
+            matrix_data.loc[patient].at[gene] = 0
 
 # Uncomment these lines to save DataFrames to CSV files
 # vcf.to_csv("out.csv")
-# matrix_data.to_csv("matrix.csv")
+#matrix_data.to_csv("matrix.csv")
 
 # Display the resulting matrix_data DataFrame
-matrix_data
+print(matrix_data)
