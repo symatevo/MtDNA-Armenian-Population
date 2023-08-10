@@ -1,6 +1,6 @@
 # Human Mitochondrial DNA Analysis
 
-This project focuses on the comprehensive analysis of human mitochondrial DNA (mtDNA) to explore genetic variations within the Armenian population and to elucidate differences between Armenian and neighboring populations. The project encompasses various stages, including data preprocessing, alignment, variant calling, annotation, haplogroup determination, and phylogenetic tree construction.
+This project focuses on the analysis of human mitochondrial DNA (mtDNA) to explore genetic variations within the Armenian and it's neighbouring populations. The project encompasses various stages, including data preprocessing, alignment, variant calling, annotation, haplogroup determination, phylogenetic tree construction and clustering analysis.
 
 ## Team
 
