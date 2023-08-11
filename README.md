@@ -56,3 +56,5 @@ Our first step in clustering analysis was matrix generation that represents the 
 - `clustering/matrix_sample_gene.py`: Generates matrix.
 - `clustering/metadata_sample_nationality.py`: Generates metadata.
 - `clustering/clustering.ipynb`: Performes clustering analysis and visualization.
+
+(add distribution samples population, samples mutations)
