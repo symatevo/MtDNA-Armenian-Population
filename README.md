@@ -49,7 +49,7 @@ For constructing the phylogenetic tree, coding sequences were utilized. This inv
 - `scr/prot_across_samples.sh`: Builds a phylogenetic tree based on proteins across populations.
 - `scr/phylo_tree_whole_genome.sh`: Builds a phylogenetic tree based on whole genome data.
 
-### 5.Clustering Analysis
+### 5. Clustering Analysis
 
 Our first step in clustering analysis was matrix generation that represents the presence or absence of mutations in specific genes across different samples. A value of '1' signifies the presence of a mutation, while '0' indicates its absence. To get initial understanding of the genetic variation among samples this matrix was visualized. K-means clustering analyse performed on the mutation matrix, using 'k = 3' as the number of clusters.To facilitate the interpretation of clustering results, Principal Component Analysis (PCA) were used. This technique reduces the dimensionality of the data while preserving as much variance as possible. By visualizing the samples in a lower-dimensional space, we aimed to identify any clear separation or clustering among the populations. The following scripts were used:
 
