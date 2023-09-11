@@ -1,2 +1,6 @@
 matrix.csv
 metadata.csv
+clustered_kmeans_10.csv
+clustered_ordered_kmeans_10.csv
+clustered_ordered.csv
+clustered.csv
