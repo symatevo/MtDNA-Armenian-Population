@@ -62,4 +62,7 @@ K-means clustering analyse performed on the mutation matrix, using 'k = 3' as th
 1. Sui(Our results revealed that Guangxi and Guizhou Sui people showed a strong genetic affinity with populations from southern China and Southeast Asia, especially Tai-Kadai- and Hmong-Mien-speaking populations as well as ancient Iron Age Taiwan Hanben, Gongguan individuals supporting the hypothesis that Sui people came from southern China originally. Guizhou Sui people were relatively homogeneous and possessed similar genetic profiles with neighboring Tai-Kadai-related populations, such as Maonan. While Sui people in Yizhou and Huanjiang of Guangxi might receive unique, additional gene flow from Hmong-Mien-speaking populations and Northern East Asians, respectively, after the divergence within other Sui populations. ), nice georgraphic not extremely diverse from Armenians
 Data obtained from ON983561 - ON983657 (biggest minus is data UNVERIFIED)
 
-2. Bouyei (homogenous), Dong
+2. Bouyei (homogenous), Dong (not available)
+3. Hakka Han - Pingtung, Taiwan, China.
+   Minnan Han - Kaohsiung, Taiwan, China
+A large-scale genetic study suggests that Han Chinese, including Hakka Han, are genetically homogeneous with differences largely based on geographic residence in northern versus southern regions7.
