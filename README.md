@@ -63,6 +63,6 @@ K-means clustering analyse performed on the mutation matrix, using 'k = 3' as th
 Data obtained from ON983561 - ON983657 (biggest minus is data UNVERIFIED)
 
 2. Bouyei (homogenous), Dong (not available)
-3. Hakka Han - Pingtung, Taiwan, China.
-   Minnan Han - Kaohsiung, Taiwan, China
+3. Hakka Han - Pingtung, Taiwan, China KF540656-KF540700
+   Minnan Han - Kaohsiung, Taiwan, China KF540701-KF540750
 A large-scale genetic study suggests that Han Chinese, including Hakka Han, are genetically homogeneous with differences largely based on geographic residence in northern versus southern regions7.
