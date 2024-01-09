@@ -62,7 +62,4 @@ K-means clustering analyse performed on the mutation matrix, using 'k = 3' as th
 
 Further Armenian (Ararat population) and Chinese (Hakka Han population) were compared
 1. Hakka Han - Pingtung, Taiwan, China KF540656-KF540700
-A large-scale genetic study suggests that Han Chinese, including Hakka Han, are genetically homogeneous with differences largely based on geographic residence in northern versus southern regions7. Mutation Matrix constructed, genes that are most different in both populations studied more detailed.
-
-![image](https://github.com/symatevo/MtDNA-Armenian-Population/assets/74954267/2109a135-4f6a-449e-ac81-029b54c8a2c6)
-
+A large-scale genetic study suggests that Han Chinese, including Hakka Han, are genetically homogeneous with differences largely based on geographic residence in northern versus southern regions7.
