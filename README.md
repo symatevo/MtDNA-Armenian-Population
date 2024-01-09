@@ -58,11 +58,11 @@ K-means clustering analyse performed on the mutation matrix, using 'k = 3' as th
 - `clustering/metadata_sample_nationality.py`: Generates metadata.
 - `clustering/clustering.ipynb`: Performes clustering analysis and visualization.
 
-(add distribution samples population, samples mutations)
-1. Sui(Our results revealed that Guangxi and Guizhou Sui people showed a strong genetic affinity with populations from southern China and Southeast Asia, especially Tai-Kadai- and Hmong-Mien-speaking populations as well as ancient Iron Age Taiwan Hanben, Gongguan individuals supporting the hypothesis that Sui people came from southern China originally. Guizhou Sui people were relatively homogeneous and possessed similar genetic profiles with neighboring Tai-Kadai-related populations, such as Maonan. While Sui people in Yizhou and Huanjiang of Guangxi might receive unique, additional gene flow from Hmong-Mien-speaking populations and Northern East Asians, respectively, after the divergence within other Sui populations. ), nice georgraphic not extremely diverse from Armenians
-Data obtained from ON983561 - ON983657 (biggest minus is data UNVERIFIED)
+### 5. Comparative Analysis (Armenia vs Chinese population)
 
-2. Bouyei (homogenous), Dong (not available)
-3. Hakka Han - Pingtung, Taiwan, China KF540656-KF540700
-   Minnan Han - Kaohsiung, Taiwan, China KF540701-KF540750
-A large-scale genetic study suggests that Han Chinese, including Hakka Han, are genetically homogeneous with differences largely based on geographic residence in northern versus southern regions7.
+Further Armenian (Ararat population) and Chinese (Hakka Han population) were compared
+1. Hakka Han - Pingtung, Taiwan, China KF540656-KF540700
+A large-scale genetic study suggests that Han Chinese, including Hakka Han, are genetically homogeneous with differences largely based on geographic residence in northern versus southern regions7. Mutation Matrix constructed, genes that are most different in both populations studied more detailed.
+
+![image](https://github.com/symatevo/MtDNA-Armenian-Population/assets/74954267/2109a135-4f6a-449e-ac81-029b54c8a2c6)
+
